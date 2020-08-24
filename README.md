@@ -3,6 +3,7 @@
 Make sure you have node js and git (if on windows) installed first
 
 Open up your terminal 
+
 $ git clone https://github.com/jcbrian/awsProxyGen.git
 
 $ cd awsProxyGen
