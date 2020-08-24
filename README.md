@@ -1,7 +1,11 @@
 # awsProxyGen
+
 1. Make sure you have node js installed first
+
 $ git clone https://github.com/jcbrian/awsProxyGen.git
+
 $ cd awsProxyGen
+
 $ npm install 
 
 
